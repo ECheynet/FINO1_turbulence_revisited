@@ -48,8 +48,8 @@ The data have been used in the following peer-reviewed studies:
   → This is the main paper in which the original data analysis was conducted.
 - Cheynet, E. (2019). *Influence of the Measurement Height on the Vertical Coherence of Natural Wind*. Lecture Notes in Civil Engineering, 27, 207–221. Springer.
 
-This repository provides an updated look at the FINO1 dataset and complements the work published in the 2018 study.
+This repository provides an updated look at the FINO1 dataset and complements the work published in the 2018 study. This is the first version of this repository; Some bugs may still be present
 
-This is the first version of this repository; Some bugs may still be present
+
 ---
 
